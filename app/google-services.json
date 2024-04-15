@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590875124415",
+    "project_id": "sms-testing-93d50",
+    "storage_bucket": "sms-testing-93d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590875124415:android:288cc7e256619b9e0bdc0a",
+        "android_client_info": {
+          "package_name": "com.abhi.smstesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsj3KEQpS_TeThLSe9wGIzabbRcK2sRfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
